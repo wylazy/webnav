@@ -1,13 +1,13 @@
 /* 全局样式 */
 :root {
-    --primary-color: #ffffff;
-    --background-color: #121212;
-    --card-background-color: #1e1e1e;
-    --card-hover-background-color: #2a2a2a;
-    --text-color: #e0e0e0;
-    --muted-text-color: #a0a0a0;
-    --header-color: #ffffff;
-    --border-color: #333333;
+    --primary-color: #0056b3; /* A strong blue for primary elements */
+    --background-color: #f0f2f5; /* Light grey background */
+    --card-background-color: #ffffff; /* White cards */
+    --card-hover-background-color: #f7f7f7; /* Slightly off-white for hover */
+    --text-color: #333333; /* Dark grey for text */
+    --muted-text-color: #666666; /* Lighter grey for muted text */
+    --header-color: #1a1a1a; /* Almost black for the main header */
+    --border-color: #e0e0e0; /* Light grey for borders */
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--background-color); /* Fallback */
-    background-image: linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)), url('https://kartoon.de5.net/random_picture');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('https://kartoon.de5.net/random_picture');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
