@@ -1,0 +1,123 @@
+/* 全局样式 */
+:root {
+    --primary-color: #ffffff;
+    --background-color: #121212;
+    --card-background-color: #1e1e1e;
+    --card-hover-background-color: #2a2a2a;
+    --text-color: #e0e0e0;
+    --muted-text-color: #a0a0a0;
+    --header-color: #ffffff;
+    --border-color: #333333;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* 头部样式 */
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: var(--background-color);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: var(--header-color);
+    font-weight: 700;
+    margin: 0;
+}
+
+/* 导航容器 */
+#navigation-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 链接分组 */
+.group-container {
+    margin-bottom: 40px;
+}
+
+.group-container h2 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+/* 卡片样式 */
+.link-card {
+    background-color: var(--card-background-color);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+    text-decoration: none;
+    color: var(--text-color);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.link-card:hover {
+    transform: translateY(-5px);
+    background-color: var(--card-hover-background-color);
+}
+
+.card-content {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.card-logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+
+.card-text {
+    flex-grow: 1;
+}
+
+.card-name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin: 0;
+}
+
+.card-description {
+    font-size: 0.9rem;
+    color: var(--muted-text-color);
+    margin-top: 5px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .group-container h2 {
+        font-size: 1.5rem;
+    }
+
+    .links-grid {
+        grid-template-columns: 1fr;
+    }
+}
