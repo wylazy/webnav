@@ -15,7 +15,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--background-color); /* Fallback */
-    background-image: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('https://kartoon.de5.net/random_picture');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)), url('https://kartoon.de5.net/random_picture');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
