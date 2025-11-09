@@ -1,0 +1,65 @@
+[
+  {
+    "groupName": "常用工具",
+    "links": [
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg",
+        "name": "GitHub",
+        "url": "https://github.com",
+        "description": "全球最大的代码托管平台，发现、分享和贡献有趣的开源项目。"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg",
+        "name": "Google",
+        "url": "https://google.com",
+        "description": "全球领先的搜索引擎，获取海量信息，探索未知世界。"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg",
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "description": "专为开发者打造的问答社区，解决编程难题，分享技术知识。"
+      }
+    ]
+  },
+  {
+    "groupName": "设计资源",
+    "links": [
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg",
+        "name": "Dribbble",
+        "url": "https://dribbble.com",
+        "description": "设计师的创意灵感和作品展示平台，发现顶级设计作品。"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg",
+        "name": "Pinterest",
+        "url": "https://pinterest.com",
+        "description": "视觉探索工具，发现和保存创意灵感，激发生活无限可能。"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg",
+        "name": "Behance",
+        "url": "https://behance.net",
+        "description": "Adobe 旗下的设计师作品集平台，展示和发现创意作品。"
+      }
+    ]
+  },
+  {
+    "groupName": "在线学习",
+    "links": [
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg",
+        "name": "Coursera",
+        "url": "https://www.coursera.org",
+        "description": "与顶尖大学和公司合作，提供海量在线课程，提升专业技能。"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg",
+        "name": "Udemy",
+        "url": "https://www.udemy.com",
+        "description": "全球最大的在线学习平台之一，提供丰富的课程选择。"
+      }
+    ]
+  }
+]
