@@ -52,7 +52,7 @@
         "logo": "https://zoneabc.net/logo.svg",
         "name": "Zoneabc",
         "url": "https://zoneabc.net/",
-        "description": "可以在 Zoneabc 平台直接开启 Cloudflare 小黄云，短域名需要积分，7个字母及以上的域名无需积分，最多申请 5 个域名。支持 zabc.net, webn.cc, vvvv.ee, sylu.cc 等域名后缀。一次注册即为永久不需要手动续期。"
+        "description": "可以在 Zoneabc 平台直接开启 Cloudflare 小黄云，一次注册即为永久。短域名需要积分，通过邀请注册可获得20积分，https://zoneabc.net/register?invite=f0c8d953086b4c29853ebec44fae6b24"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
@@ -64,19 +64,19 @@
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Netlib",
         "url": "https://www.netlib.re/",
-        "description": "一次注册即为永久不需要手动续期，netlib.re 后缀域名支持托管到 Cloudflare。但是要注意添加流程，申请域名之后，必须先点击 Delegation 完成变更（由于还不知道Cloudflare的NS，这里可以随便填NS），然后在Cloudflare导入域名。如果不按这个次序导致域名永远无法被Cloudflare托管"
+        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare。但是要注意添加流程，申请域名之后，必须先点击 Delegation 完成变更（由于还不知道Cloudflare的NS，这里可以随便填NS），然后在Cloudflare导入域名。如果不按这个次序导致域名永远无法被Cloudflare托管"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
-        "description": "不支持托管到Cloudflare，使用邀请码最多可申请10个域名，域名后缀：de5.net和ccwu.cc。默认即为永久域名，无需续期"
+        "description": "一次注册即为永久，不支持托管到Cloudflare。默认可注册5个域名，使用邀请码最多可申请10个域名。邀请码：WO978D6518"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://nic.ye.gs/",
-        "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：let.gs, let.tf, ye.gs。默认即为永久域名，无需续期"
+        "description": "不支持托管到Cloudflare，最多申请3个域名，默认即为永久域名，通过邀请注册获得5积分。https://nic.ye.gs/user/login.php?invite=INVB9FE2B43"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
