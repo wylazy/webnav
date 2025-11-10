@@ -55,37 +55,37 @@
         "description": "可以在 Zoneabc 平台直接开启 Cloudflare 小黄云，短域名需要积分，7个字母及以上的域名无需积分，最多申请 5 个域名。支持 zabc.net, webn.cc, vvvv.ee, sylu.cc 等域名后缀。一次注册即为永久不需要手动续期。"
       },
       {
-        "logo": "https://digitalplat.org/wp-content/uploads/2024/05/logo.jpg",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Digitalplat",
         "url": "https://domain.digitalplat.org/",
         "description": "绑定github并给项目Star，可以获得2个席位，可选择申请：dpdns.org，qzz.io；现在 us.kg 和 xx.kg 需要赞助才能获得。域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare。"
       },
       {
-        "logo": "",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Netlib",
         "url": "https://www.netlib.re/",
         "description": "一次注册即为永久不需要手动续期，netlib.re 后缀域名支持托管到 Cloudflare。但是要注意添加流程，申请域名之后，必须先点击 Delegation 完成变更（由于还不知道Cloudflare的NS，这里可以随便填NS），然后在Cloudflare导入域名。如果不按这个次序导致域名永远无法被Cloudflare托管"
       },
       {
-        "logo": "",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
         "description": "不支持托管到Cloudflare，使用邀请码最多可申请10个域名，域名后缀：de5.net和ccwu.cc。默认即为永久域名，无需续期"
       },
       {
-        "logo": "",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://nic.ye.gs/",
         "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：let.gs, let.tf, ye.gs。默认即为永久域名，无需续期"
       },
       {
-        "logo": "",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Frii",
         "url": "https://www.frii.site/",
         "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：frii.site。默认即为永久域名，无需续期"
       },
       {
-        "logo": "",
+        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "FreeDomain",
         "url": "https://freedomain.one/",
         "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：work.gd, run.place等。域名每次可申请1年"

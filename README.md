@@ -1,2 +1,15 @@
 # webnav
-webnav
+## 部署
+Fork本项目，点击 github 项目的 Settings -> Pages
+
+Source 选择 Deploy from a branch
+
+Branch 选择 main ，路径选择 '/(root)'
+
+## 访问方法
+浏览器访问 http://wylazy.github.io/webnav
+
+把 wylazy 替换为 github 用户名
+
+## 配置导航页
+修改 data.json 配置，把导航网页配置进去。
