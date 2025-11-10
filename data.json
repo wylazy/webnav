@@ -23,25 +23,25 @@
     ]
   },
   {
-    "groupName": "设计资源",
+    "groupName": "资源素材",
     "links": [
       {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg",
-        "name": "Dribbble",
-        "url": "https://dribbble.com",
-        "description": "设计师的创意灵感和作品展示平台，发现顶级设计作品。"
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pixabay.svg",
+        "name": "Pixabay",
+        "url": "https://pixabay.com/",
+        "description": "免费的素材分享站，提供高清图片、视频"
       },
       {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg",
-        "name": "Pinterest",
-        "url": "https://pinterest.com",
-        "description": "视觉探索工具，发现和保存创意灵感，激发生活无限可能。"
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pexels.svg",
+        "name": "Pexels",
+        "url": "https://www.pexels.com/",
+        "description": "摄影类照片和视频"
       },
       {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg",
-        "name": "Behance",
-        "url": "https://behance.net",
-        "description": "Adobe 旗下的设计师作品集平台，展示和发现创意作品。"
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unsplash.svg",
+        "name": "Unsplash",
+        "url": "https://unsplash.com/",
+        "description": "各种照片"
       }
     ]
   },
