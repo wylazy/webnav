@@ -1,0 +1,24 @@
+
+  {
+    "groupName": "本站邀请",
+    "links": [
+      {
+        "logo": "https://zoneabc.net/logo.svg",
+        "name": "Zoneabc",
+        "url": "https://zoneabc.net/register?invite=f0c8d953086b4c29853ebec44fae6b24",
+        "description": "邀请链接"
+      },
+      {
+        "logo": "https://svgsilh.com/svg/1873373.svg",
+        "name": "Ye.Gs",
+        "url": "https://nic.ye.gs/user/login.php?invite=INVB9FE2B43",
+        "description": "邀请链接"
+      },
+      {
+        "logo": "https://svgsilh.com/svg/1873373.svg",
+        "name": "Dnshe",
+        "url": "",
+        "description": "邀请码：WO978D6518"
+      }
+    ]
+  }

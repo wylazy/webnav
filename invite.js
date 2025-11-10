@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 异步加载 JSON 数据
     async function loadNavigationData() {
         try {
-            const response = await fetch('data.json');
+            const response = await fetch('invite.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -12,21 +12,19 @@ document.addEventListener('DOMContentLoaded', () => {
             renderNavigation(data);
         } catch (error) {
             console.error('无法加载导航数据:', error);
-            container.innerHTML = '<p style="text-align: center; color: var(--muted-text-color);">无法加载导航链接，请检查 data.json 文件是否存在且格式正确。</p>';
+            container.innerHTML = '<p style="text-align: center; color: var(--muted-text-color);">无法加载导航链接，请检查 invite.json 文件是否存在且格式正确。</p>';
         }
     }
 
     // 渲染导航链接
-    function renderNavigation(data) {
-        if (!data || data.length === 0) {
+    function renderNavigation(inviteGroup) {
+        if (!inviteGroup) {
             container.innerHTML = '<p style="text-align: center; color: var(--muted-text-color);">暂无导航链接。</p>';
             return;
         }
 
         // 清空容器
         container.innerHTML = '';
-
-        const inviteGroup = data.find(group => group.groupName === '本站邀请');
 
         if (!inviteGroup) {
             container.innerHTML = '<p style="text-align: center; color: var(--muted-text-color);">未找到邀请链接。</p>';
