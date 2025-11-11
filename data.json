@@ -50,21 +50,21 @@
     "links": [
       {
         "logo": "https://zoneabc.net/logo.svg",
-        "name": "Zoneabc",
+        "name": "ZoneABC",
         "url": "https://zoneabc.net/",
-        "description": "可以在 Zoneabc 平台直接开启 Cloudflare 小黄云，一次注册即为永久。短域名需要积分，通过邀请注册可获得20积分"
+        "description": "一次注册即为永久，可以在 ZoneABC 平台直接开启 Cloudflare 小黄云。短域名需要积分，通过邀请注册可获得10积分。"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Digitalplat",
         "url": "https://domain.digitalplat.org/",
-        "description": "绑定github并给项目Star，可以获得2个席位，可选择申请：dpdns.org，qzz.io；现在 us.kg 和 xx.kg 需要赞助才能获得。域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare。"
+        "description": "绑定github并给项目Star，可以获得2个席位，可选择申请：dpdns.org，qzz.io；域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare。"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Netlib",
         "url": "https://www.netlib.re/",
-        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare。但是要注意添加流程，申请域名之后，必须先点击 Delegation 完成变更（由于还不知道Cloudflare的NS，这里可以随便填NS），然后在Cloudflare导入域名。如果不按这个次序导致域名永远无法被Cloudflare托管"
+        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare。"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
@@ -76,19 +76,19 @@
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "YE.GS",
         "url": "https://nic.ye.gs/",
-        "description": "不支持托管到Cloudflare，最多申请3个域名，默认即为永久域名，通过邀请注册获得5积分。"
+        "description": "一次注册即为永久，不支持托管到Cloudflare，最多申请3个域名，通过邀请注册获得5积分。"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Frii",
         "url": "https://www.frii.site/",
-        "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：frii.site。默认即为永久域名，无需续期"
+        "description": "一次注册即为永久，不支持托管到Cloudflare，最多申请3个域名，域名后缀：frii.site。"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "FreeDomain",
         "url": "https://freedomain.one/",
-        "description": "不支持托管到Cloudflare，最多申请3个域名，域名后缀：work.gd, run.place等。域名每次可申请1年"
+        "description": "不支持托管到 Cloudflare，最多申请 3 个域名，域名后缀：work.gd, run.place 等。域名每次可申请1年"
       }
     ]
   },
@@ -99,25 +99,65 @@
         "logo": "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vercel.svg",
         "name": "Vercel",
         "url": "https://vercel.com/",
-        "description": "每月100万次调用，100G数据流量"
+        "description": "每月 100 万次调用，100G 数据流量"
       },
       {
         "logo": "https://ap-southeast-1.run.claw.cloud/logo.svg",
         "name": "ClawCloud",
         "url": "https://run.claw.cloud/",
-        "description": "使用6个月以上的Github账号注册，每月 5$ 额度，10GB数据流量"
+        "description": "使用 6 个月以上的 Github 账号注册，每月 5$ 额度，10GB 数据流量"
       },
       {
         "logo": "https://zeabur.com/logo.svg",
         "name": "Zeabur",
         "url": "https://zeabur.com/",
-        "description": "需要绑定手机号，每月 5$ 额度，10GB数据流量"
+        "description": "需要绑定手机号，每月 5$ 额度，10GB 数据流量"
       },
       {
         "logo": "https://wispbyte.com/client/assets/wispbyte_blue_nobg.webp",
         "name": "Wispbyte",
         "url": "https://wispbyte.com/",
-        "description": "可以使用1个容器，512M内存，1GB存储。好像不可以选区域，自动分配到罗马尼亚了"
+        "description": "可以使用1个容器，512M 内存，1GB 存储。好像不可以选区域，自动分配到罗马尼亚了"
+      }
+    ]
+  },
+  {
+    "groupName": "云端 IDE",
+    "links": [
+      {
+        "logo": "https://cs-res-1258344699.file.myqcloud.com/cloudstudio/new-dashboard/660dcd19c184620e70418257378a3e3f0ef79414/dist/assets/logo300.e3c9056f.png",
+        "name": "CloudStudio",
+        "url": "https://ide.cloud.tencent.com/",
+        "description": "腾讯云出品，有赠送额度，使用 2 核 4G 云主机足够使用 1 个月了，可使用 Web 端 VSCODE，支持使用 CodeBuddy 生成代码"
+      },
+      {
+        "logo": "https://www.gstatic.com/monospace/250314/icon-192.png",
+        "name": "Firebase Studio",
+        "url": "https://idx.google.com/",
+        "description": "谷歌出品，后端开发为 2 核 8G 配置，可使用 Web 端 VSCODE，支持使用 Gemini 生成代码"
+      },
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg",
+        "name": "GitHub Codespaces",
+        "url": "https://github.com/codespaces",
+        "description": "Github 出品，每月免费 120 核时，使用双核配置，最多可使用 60 小时"
+      }
+    ]
+  },
+  {
+    "groupName": "CDN",
+    "links": [
+      {
+        "logo": "https://www.cloudflare-cn.com/favicon.ico",
+        "name": "Cloudflare",
+        "url": "https://www.cloudflare.com/",
+        "description": "CDN、域名解析、Worker/Pages、隧道、站点保护"
+      },
+      {
+        "logo": "https://edgeone.ai/favicon.ico",
+        "name": "Edge One",
+        "url": "https://edgeone.ai/",
+        "description": "腾讯云出品，国内版通过兑换码创建 1 个加速站点，国际版通过分享创建 4 个加速站点"
       }
     ]
   }
