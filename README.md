@@ -1,6 +1,8 @@
 # webnav
 ## 部署
-Fork本项目，点击 github 项目的 Settings -> Pages
+Fork本项目，并删除项目根目录下的 CNAME 文件，因为 CNAME 文件中的域名已经被使用了。
+
+点击 github 项目的 Settings -> Pages
 
 Source 选择 Deploy from a branch
 
@@ -13,8 +15,15 @@ Branch 选择 main ，路径选择 '/(root)'
 
 把 wylazy 替换为你自己的 github 用户名
 
+## 绑定域名
+如果想绑定自己的域名，点击 github 项目的 Settings -> Pages
+
+在 Custom domain 中填入自定义域名
+
+回到域名注册商的平台，给该域名添加一个 CNAME 记录，指向 wylazy.github.io （把 wylazy 替换为你自己的 github 用户名）
+
 ## 配置导航页
-修改 data.json,把导航网页配置进去。将修改推送到 github，后台会自动构建。
+修改 data.json，把导航网页配置进去。将修改推送到 github，后台会自动构建。
 
 ## 配置邀请页
-修改 invite.json, 配置邀请码或者邀请链接。
+修改 invite.json，配置邀请码或者邀请链接。
