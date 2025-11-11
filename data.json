@@ -6,19 +6,19 @@
         "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg",
         "name": "GitHub",
         "url": "https://github.com",
-        "description": "全球最大的代码托管平台，发现、分享和贡献有趣的开源项目。"
+        "description": "全球最大的代码托管平台，发现、分享和贡献有趣的开源项目"
       },
       {
         "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg",
         "name": "Google",
         "url": "https://google.com",
-        "description": "全球领先的搜索引擎，获取海量信息，探索未知世界。"
+        "description": "全球领先的搜索引擎，获取海量信息，探索未知世界"
       },
       {
         "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg",
         "name": "Stack Overflow",
         "url": "https://stackoverflow.com",
-        "description": "专为开发者打造的问答社区，解决编程难题，分享技术知识。"
+        "description": "专为开发者打造的问答社区，解决编程难题，分享技术知识"
       }
     ]
   },
@@ -52,43 +52,43 @@
         "logo": "https://zoneabc.net/logo.svg",
         "name": "ZoneABC",
         "url": "https://zoneabc.net/",
-        "description": "一次注册即为永久，可以在 ZoneABC 平台直接开启 Cloudflare 小黄云。短域名需要积分，通过邀请注册可获得10积分。"
+        "description": "一次注册即为永久，可以在 ZoneABC 平台直接开启 Cloudflare 小黄云。短域名需要积分，通过邀请注册可获得10积分"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Digitalplat",
         "url": "https://domain.digitalplat.org/",
-        "description": "绑定github并给项目Star，可以获得2个席位，可选择申请：dpdns.org，qzz.io；域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare。"
+        "description": "绑定 Github 并给项目 Star，可以获得2个席位。域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Netlib",
         "url": "https://www.netlib.re/",
-        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare。"
+        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
-        "description": "一次注册即为永久，不支持托管到Cloudflare。默认可注册5个域名，使用邀请码最多可申请10个域名。"
+        "description": "一次注册即为永久，不支持托管到 Cloudflare。默认可注册5个域名，使用邀请码最多可申请10个域名"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "YE.GS",
         "url": "https://nic.ye.gs/",
-        "description": "一次注册即为永久，不支持托管到Cloudflare，最多申请3个域名，通过邀请注册获得5积分。"
+        "description": "一次注册即为永久，可直接在 YE.GS 平台开启 Cloudflare 小黄云，最多申请 3 个域名，通过邀请注册获得 5 积分"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Frii",
         "url": "https://www.frii.site/",
-        "description": "一次注册即为永久，不支持托管到Cloudflare，最多申请3个域名，域名后缀：frii.site。"
+        "description": "一次注册即为永久，不支持托管到 Cloudflare，最多申请3个域名，域名后缀：frii.site"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "FreeDomain",
         "url": "https://freedomain.one/",
-        "description": "不支持托管到 Cloudflare，最多申请 3 个域名，域名后缀：work.gd, run.place 等。域名每次可申请1年"
+        "description": "不支持托管到 Cloudflare，最多申请 3 个域名，域名后缀：work.gd, run.place 等。域名每次可申请1年，需要手动续期"
       }
     ]
   },
@@ -117,7 +117,7 @@
         "logo": "https://wispbyte.com/client/assets/wispbyte_blue_nobg.webp",
         "name": "Wispbyte",
         "url": "https://wispbyte.com/",
-        "description": "可以使用1个容器，512M 内存，1GB 存储。好像不可以选区域，自动分配到罗马尼亚了"
+        "description": "可以使用1个容器，512M 内存，1GB 存储"
       }
     ]
   },
