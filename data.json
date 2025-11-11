@@ -160,5 +160,28 @@
         "description": "腾讯云出品，国内版通过兑换码创建 1 个加速站点，国际版通过分享创建 4 个加速站点"
       }
     ]
+  },
+  {
+    "groupName": "虚拟工具",
+    "links": [
+      {
+        "logo": "https://0tax.io/logo.png",
+        "name": "0Tax",
+        "url": "https://0tax.io/",
+        "description": "地址生成"
+      },
+      {
+        "logo": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fsms24.info%2Fimages%2Flogo.png",
+        "name": "SMS 24",
+        "url": "https://sms24.me/",
+        "description": "接码平台"
+      },
+      {
+        "logo": "https://temp-mail.io/favicon.ico",
+        "name": "Temp-Mail",
+        "url": "https://temp-mail.io/",
+        "description": "临时邮箱"
+      }
+    ]
   }
 ]
