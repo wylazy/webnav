@@ -1,8 +1,6 @@
 # webnav
 ## 部署
-Fork本项目，并删除项目根目录下的 CNAME 文件，因为 CNAME 文件中的域名已经被使用了。
-
-点击 github 项目的 Settings -> Pages
+Fork本项目，点击 github 项目的 Settings -> Pages
 
 Source 选择 Deploy from a branch
 
