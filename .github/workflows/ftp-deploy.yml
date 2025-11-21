@@ -1,0 +1,40 @@
+name: Deploy to FTP
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Prepare files
+        run: |
+          mkdir deploy_staging
+          # Use rsync to copy files with specific extensions while preserving directory structure
+          rsync -avm \
+            --include='*/' \
+            --include='*.html' \
+            --include='*.css' \
+            --include='*.js' \
+            --include='*.json' \
+            --exclude='*' \
+            ./ deploy_staging/
+          echo "Files to be uploaded:"
+          ls -R deploy_staging/
+
+      - name: Sync files to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./deploy_staging/
+          server-dir: htdocs/
+          protocol: ftps
+          security: loose
