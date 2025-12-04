@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 异步加载 JSON 数据
     async function loadNavigationData() {
         try {
-            const response = await fetch('invite.json');
+            const response = await fetch('invite.data.js');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }

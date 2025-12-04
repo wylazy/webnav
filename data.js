@@ -70,7 +70,7 @@
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
-        "description": "一次注册即为永久，不支持托管到 Cloudflare。默认可注册5个域名，使用邀请码最多可申请10个域名"
+        "description": "支持托管 Cloudflare，默认可注册5个域名，使用邀请码最多可申请10个域名"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
