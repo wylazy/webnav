@@ -21,7 +21,7 @@ Branch 选择 main ，路径选择 '/(root)'
 回到域名注册商的平台，给该域名添加一个 CNAME 记录，指向 wylazy.github.io （把 wylazy 替换为你自己的 github 用户名）
 
 ## 配置导航页
-修改 data.json，把导航网页配置进去。将修改推送到 github，后台会自动构建。
+修改 data.js，把导航网页配置进去。将修改推送到 github，后台会自动构建。
 
 ## 配置邀请页
-修改 invite.json，配置邀请码或者邀请链接。
+修改 invite.data.js，配置邀请码或者邀请链接。
