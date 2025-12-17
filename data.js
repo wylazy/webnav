@@ -62,12 +62,6 @@
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
-        "name": "Netlib",
-        "url": "https://www.netlib.re/",
-        "description": "一次注册即为永久，netlib.re 后缀支持托管到 Cloudflare"
-      },
-      {
-        "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
         "description": "支持托管 Cloudflare，默认可注册5个域名，使用邀请码最多可申请10个域名"
@@ -76,7 +70,7 @@
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "YE.GS",
         "url": "https://nic.ye.gs/",
-        "description": "一次注册即为永久，可直接在 YE.GS 平台开启 Cloudflare 小黄云，最多申请 3 个域名，通过邀请注册获得 5 积分"
+        "description": "一次注册即为永久，最多申请 3 个域名，通过邀请注册获得 5 积分"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
