@@ -58,13 +58,13 @@
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Digitalplat",
         "url": "https://domain.digitalplat.org/",
-        "description": "绑定 Github 并给项目 Star，可以获得2个席位。域名每次可申请1年，半年之后需要手动续期。域名支持托管到 Cloudflare"
+        "description": "绑定 Github 并给项目 Star，可以获得2个席位。域名每次可申请1年，半年之后可以手动续期。域名支持托管到 Cloudflare"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
         "name": "Dnshe",
         "url": "https://my.dnshe.com/",
-        "description": "支持托管 Cloudflare，默认可注册5个域名，使用邀请码最多可申请10个域名"
+        "description": "支持托管 Cloudflare，2026年1月1号之后注册的域名期限为1年，半年之后可以手动续期"
       },
       {
         "logo": "https://svgsilh.com/svg/1873373.svg",
