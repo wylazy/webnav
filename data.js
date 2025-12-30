@@ -1,28 +1,5 @@
 [
   {
-    "groupName": "常用工具",
-    "links": [
-      {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg",
-        "name": "GitHub",
-        "url": "https://github.com",
-        "description": "全球最大的代码托管平台，发现、分享和贡献有趣的开源项目"
-      },
-      {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg",
-        "name": "Google",
-        "url": "https://google.com",
-        "description": "全球领先的搜索引擎，获取海量信息，探索未知世界"
-      },
-      {
-        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg",
-        "name": "Stack Overflow",
-        "url": "https://stackoverflow.com",
-        "description": "专为开发者打造的问答社区，解决编程难题，分享技术知识"
-      }
-    ]
-  },
-  {
     "groupName": "资源素材",
     "links": [
       {
@@ -93,25 +70,42 @@
         "logo": "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vercel.svg",
         "name": "Vercel",
         "url": "https://vercel.com/",
-        "description": "每月 100 万次调用，100G 数据流量"
+        "description": "每月 100 万次调用，100G 数据流量。无需保活，即开即用"
       },
       {
         "logo": "https://ap-southeast-1.run.claw.cloud/logo.svg",
         "name": "ClawCloud",
         "url": "https://run.claw.cloud/",
-        "description": "使用 6 个月以上的 Github 账号注册，每月 5$ 额度，10GB 数据流量"
+        "description": "使用 6 个月以上的 Github 账号注册，每月 5$ 额度，10GB 数据流量，需要保活"
       },
       {
         "logo": "https://zeabur.com/logo.svg",
         "name": "Zeabur",
         "url": "https://zeabur.com/",
-        "description": "需要绑定手机号，每月 5$ 额度，10GB 数据流量"
+        "description": "需要绑定手机号，每月 5$ 额度，10GB 数据流量。无需保活，即开即用"
       },
       {
         "logo": "https://wispbyte.com/client/assets/wispbyte_blue_nobg.webp",
         "name": "Wispbyte",
         "url": "https://wispbyte.com/",
-        "description": "可以使用1个容器，512M 内存，1GB 存储"
+        "description": "可以使用 1 个容器，512M 内存，1GB 存储，需要保活"
+      }
+    ]
+  },
+  {
+    "groupName": "代码托管",
+    "links": [
+      {
+        "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg",
+        "name": "GitHub",
+        "url": "https://github.com",
+        "description": "全球最大的代码托管平台，发现、分享和贡献有趣的开源项目"
+      },
+      {
+        "logo": "https://cnb.cool/images/favicon.png",
+        "name": "CNB",
+        "url": "https://cnb.cool",
+        "description": "腾讯旗下，只能微信扫码登录，支持私有和公开仓库，支持云端 IDE 开发，每月有 1600 核时的免费额度，支持 CPU 和 GPU"
       }
     ]
   },
@@ -122,7 +116,7 @@
         "logo": "https://cs-res-1258344699.file.myqcloud.com/cloudstudio/new-dashboard/660dcd19c184620e70418257378a3e3f0ef79414/dist/assets/logo300.e3c9056f.png",
         "name": "CloudStudio",
         "url": "https://ide.cloud.tencent.com/",
-        "description": "腾讯云出品，有赠送额度，使用 2 核 4G 云主机足够使用 1 个月了，可使用 Web 端 VSCODE，支持使用 CodeBuddy 生成代码"
+        "description": "腾讯云出品，有赠送额度，每月可使用 10000 分钟，可使用 Web 端 VSCODE，支持使用 CodeBuddy 生成代码"
       },
       {
         "logo": "https://www.gstatic.com/monospace/250314/icon-192.png",
@@ -152,6 +146,12 @@
         "name": "Edge One",
         "url": "https://edgeone.ai/",
         "description": "腾讯云出品，国内版通过兑换码创建 1 个加速站点，国际版通过分享创建 4 个加速站点"
+      },
+      {
+        "logo": "https://img.alicdn.com/imgextra/i2/O1CN01q6ShBV1HVxcNp7sTj_!!6000000000764-2-tps-192-192.png",
+        "name": "ESA",
+        "url": "https://esa.console.aliyun.com/",
+        "description": "阿里云出品，国内版可创建 1 个加速站点"
       }
     ]
   },
