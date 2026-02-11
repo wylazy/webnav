@@ -177,5 +177,34 @@
         "description": "临时邮箱"
       }
     ]
+  },
+  {
+    "groupName": "电视软件",
+    "links": [
+      {
+        "logo": "https://iptvindex.com/img/logox.png",
+        "name": "IPTV Index",
+        "url": "https://iptvindex.com/",
+        "description": "简洁有用的直播影视索引"
+      },
+      {
+        "logo": "https://live.zbds.top/favicon.png",
+        "name": "IPTV 直播源",
+        "url": "https://live.zbds.top/",
+        "description": "免费提供最新开源的 IPTV 直播源,每 6 小时自动更新"
+      },
+      {
+        "logo": "https://iptv.hacks.tools/favicon.svg",
+        "name": "IPTV 全球直播源",
+        "url": "https://iptv.hacks.tools/",
+        "description": "提供国内国际高质量直播源，支持IPv4/IPv6，TXT/M3U 格式"
+      },
+      {
+        "logo": "https://null",
+        "name": "盒子地窖",
+        "url": "http://www.wmsio.cn/",
+        "description": "电视、手机软件分享"
+      }
+    ]
   }
 ]
