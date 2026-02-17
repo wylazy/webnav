@@ -11,11 +11,12 @@ jobs:
       - name: Create public directory and copy files
         run: |
           mkdir public
-          cp *.html public/
-          cp *.css public/
-          cp *.js public/
+          find . -maxdepth 1 -type f -name '*.html' -exec cp {} public/ \;
+          find . -maxdepth 1 -type f -name '*.css' -exec cp {} public/ \;
+          find . -maxdepth 1 -type f -name '*.js' -exec cp {} public/ \;
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
           projectId: '${{ secrets.FIREBASE_PROJECT_ID }}'
+          channelId: live
