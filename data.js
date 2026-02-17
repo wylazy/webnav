@@ -85,6 +85,12 @@
         "description": "需要绑定手机号，每月 5$ 额度，10GB 数据流量。无需保活，即开即用"
       },
       {
+        "logo": "https://app.northflank.com/host/northflank/logo.svg",
+        "name": "Northflank",
+        "url": "https://northflank.com/",
+        "description": "可以使用 1 个容器，最大 512M 内存，无需保活"
+      },
+      {
         "logo": "https://wispbyte.com/client/assets/wispbyte_blue_nobg.webp",
         "name": "Wispbyte",
         "url": "https://wispbyte.com/",
