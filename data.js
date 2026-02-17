@@ -88,7 +88,7 @@
         "logo": "https://app.northflank.com/host/northflank/logo.svg",
         "name": "Northflank",
         "url": "https://northflank.com/",
-        "description": "可以使用 1 个容器，最大 512M 内存，无需保活"
+        "description": "需要绑定信用卡，可以使用 1 个容器，最大 512M 内存，无需保活"
       },
       {
         "logo": "https://wispbyte.com/client/assets/wispbyte_blue_nobg.webp",
