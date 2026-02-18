@@ -1,4 +1,6 @@
 # webnav
+纯静态网页导航站，通过配置文件指定导航内容。
+
 ## 部署
 Fork本项目，点击 github 项目的 Settings -> Pages
 
