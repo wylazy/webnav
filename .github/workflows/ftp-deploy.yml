@@ -22,7 +22,6 @@ jobs:
             --include='*.html' \
             --include='*.css' \
             --include='*.js' \
-            --include='*.json' \
             --exclude='*' \
             ./ deploy_staging/
           echo "Files to be uploaded:"
