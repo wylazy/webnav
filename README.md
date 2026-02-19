@@ -1,7 +1,7 @@
 # webnav
-纯静态网页导航站，通过配置文件指定导航内容。
+纯静态网页导航站，通过配置文件指定导航内容。支持直接 github pages，或者使用其他平台静态托管部署。
 
-## 部署
+## Github pages 部署
 Fork本项目，点击 github 项目的 Settings -> Pages
 
 Source 选择 Deploy from a branch
