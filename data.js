@@ -79,12 +79,6 @@
         "description": "使用 6 个月以上的 Github 账号注册，每月 5$ 额度，10GB 数据流量，需要保活"
       },
       {
-        "logo": "https://zeabur.com/logo.svg",
-        "name": "Zeabur",
-        "url": "https://zeabur.com/",
-        "description": "需要绑定手机号，每月 5$ 额度，10GB 数据流量。无需保活，即开即用"
-      },
-      {
         "logo": "https://app.northflank.com/host/northflank/logo.svg",
         "name": "Northflank",
         "url": "https://northflank.com/",
